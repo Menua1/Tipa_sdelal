@@ -1,0 +1,15 @@
+C:\GeekBrains\Seminars\Знакомство с языками программирования\Урок 2. Массивы и функции в программировании\task1\bin\Debug\net6.0\sem2.exe
+C:\GeekBrains\Seminars\Знакомство с языками программирования\Урок 2. Массивы и функции в программировании\task1\bin\Debug\net6.0\sem2.deps.json
+C:\GeekBrains\Seminars\Знакомство с языками программирования\Урок 2. Массивы и функции в программировании\task1\bin\Debug\net6.0\sem2.runtimeconfig.json
+C:\GeekBrains\Seminars\Знакомство с языками программирования\Урок 2. Массивы и функции в программировании\task1\bin\Debug\net6.0\sem2.dll
+C:\GeekBrains\Seminars\Знакомство с языками программирования\Урок 2. Массивы и функции в программировании\task1\bin\Debug\net6.0\sem2.pdb
+C:\GeekBrains\Seminars\Знакомство с языками программирования\Урок 2. Массивы и функции в программировании\task1\obj\Debug\net6.0\sem2.csproj.AssemblyReference.cache
+C:\GeekBrains\Seminars\Знакомство с языками программирования\Урок 2. Массивы и функции в программировании\task1\obj\Debug\net6.0\sem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Seminars\Знакомство с языками программирования\Урок 2. Массивы и функции в программировании\task1\obj\Debug\net6.0\sem2.AssemblyInfoInputs.cache
+C:\GeekBrains\Seminars\Знакомство с языками программирования\Урок 2. Массивы и функции в программировании\task1\obj\Debug\net6.0\sem2.AssemblyInfo.cs
+C:\GeekBrains\Seminars\Знакомство с языками программирования\Урок 2. Массивы и функции в программировании\task1\obj\Debug\net6.0\sem2.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Seminars\Знакомство с языками программирования\Урок 2. Массивы и функции в программировании\task1\obj\Debug\net6.0\sem2.dll
+C:\GeekBrains\Seminars\Знакомство с языками программирования\Урок 2. Массивы и функции в программировании\task1\obj\Debug\net6.0\refint\sem2.dll
+C:\GeekBrains\Seminars\Знакомство с языками программирования\Урок 2. Массивы и функции в программировании\task1\obj\Debug\net6.0\sem2.pdb
+C:\GeekBrains\Seminars\Знакомство с языками программирования\Урок 2. Массивы и функции в программировании\task1\obj\Debug\net6.0\sem2.genruntimeconfig.cache
+C:\GeekBrains\Seminars\Знакомство с языками программирования\Урок 2. Массивы и функции в программировании\task1\obj\Debug\net6.0\ref\sem2.dll

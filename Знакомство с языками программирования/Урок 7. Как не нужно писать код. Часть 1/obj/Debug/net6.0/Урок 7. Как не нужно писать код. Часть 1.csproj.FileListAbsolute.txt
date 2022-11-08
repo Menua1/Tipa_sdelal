@@ -1,0 +1,15 @@
+C:\GeekBrains\Seminars\Урок 7. Как не нужно писать код. Часть 1\bin\Debug\net6.0\Урок 7. Как не нужно писать код. Часть 1.exe
+C:\GeekBrains\Seminars\Урок 7. Как не нужно писать код. Часть 1\bin\Debug\net6.0\Урок 7. Как не нужно писать код. Часть 1.deps.json
+C:\GeekBrains\Seminars\Урок 7. Как не нужно писать код. Часть 1\bin\Debug\net6.0\Урок 7. Как не нужно писать код. Часть 1.runtimeconfig.json
+C:\GeekBrains\Seminars\Урок 7. Как не нужно писать код. Часть 1\bin\Debug\net6.0\Урок 7. Как не нужно писать код. Часть 1.dll
+C:\GeekBrains\Seminars\Урок 7. Как не нужно писать код. Часть 1\bin\Debug\net6.0\Урок 7. Как не нужно писать код. Часть 1.pdb
+C:\GeekBrains\Seminars\Урок 7. Как не нужно писать код. Часть 1\obj\Debug\net6.0\Урок 7. Как не нужно писать код. Часть 1.csproj.AssemblyReference.cache
+C:\GeekBrains\Seminars\Урок 7. Как не нужно писать код. Часть 1\obj\Debug\net6.0\Урок 7. Как не нужно писать код. Часть 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Seminars\Урок 7. Как не нужно писать код. Часть 1\obj\Debug\net6.0\Урок 7. Как не нужно писать код. Часть 1.AssemblyInfoInputs.cache
+C:\GeekBrains\Seminars\Урок 7. Как не нужно писать код. Часть 1\obj\Debug\net6.0\Урок 7. Как не нужно писать код. Часть 1.AssemblyInfo.cs
+C:\GeekBrains\Seminars\Урок 7. Как не нужно писать код. Часть 1\obj\Debug\net6.0\Урок 7. Как не нужно писать код. Часть 1.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Seminars\Урок 7. Как не нужно писать код. Часть 1\obj\Debug\net6.0\Урок 7. Как не нужно писать код. Часть 1.dll
+C:\GeekBrains\Seminars\Урок 7. Как не нужно писать код. Часть 1\obj\Debug\net6.0\refint\Урок 7. Как не нужно писать код. Часть 1.dll
+C:\GeekBrains\Seminars\Урок 7. Как не нужно писать код. Часть 1\obj\Debug\net6.0\Урок 7. Как не нужно писать код. Часть 1.pdb
+C:\GeekBrains\Seminars\Урок 7. Как не нужно писать код. Часть 1\obj\Debug\net6.0\Урок 7. Как не нужно писать код. Часть 1.genruntimeconfig.cache
+C:\GeekBrains\Seminars\Урок 7. Как не нужно писать код. Часть 1\obj\Debug\net6.0\ref\Урок 7. Как не нужно писать код. Часть 1.dll
